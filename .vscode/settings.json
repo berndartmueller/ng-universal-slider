@@ -1,0 +1,10 @@
+{
+    "auto-close-tag.activationOnLanguage": [
+        "html",
+        "xml"
+    ],
+    "editor.tabSize": 2,
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "editor.detectIndentation": false,
+    "autoimport.spaceBetweenBraces": true
+}
